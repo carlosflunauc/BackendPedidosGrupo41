@@ -1,3 +1,21 @@
+# sentencias claves loopback4
+
+  Para inciar un proyecto se necesita la guia inicial:
+  https://loopback.io/getting-started.html
+
+  Crear Nuevo Proyecto
+  lb4 app
+
+  1) lb4 datasource
+  2) lb4 models
+  3) lb4 repository
+  4) lb4 relations
+  5) lb4 controllers
+  6) lb4 service
+
+  Ejecutar
+  npm start
+
 # backenpedidosg41
 
 This application is generated using [LoopBack 4 CLI](https://loopback.io/doc/en/lb4/Command-line-interface.html) with the
